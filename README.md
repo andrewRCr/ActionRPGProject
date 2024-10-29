@@ -11,5 +11,5 @@ Features 6 total enemy AI classes, each with distinct models, animations, and be
 
 In genre fashion, praying at idol statues heals the player, saves their progress, refills their health flasks, and respawns enemies. The player has both an automatic soft-lock and manual hard lock-on targeting system at their disposal, as well as blocking, side-stepping, and rolling defensive options. In addition to traditional “poise” mechanics, a “posture-break” system allows the player to perform various instant-kill finishing moves on stunned enemies - rewarding aggressive play.
 
-Preview it here: https://andrewcreekmore.com/projects/actionrpg  
+Preview it here: [andrewcreekmore.com/projects/actionrpg](https://andrewcreekmore.com/projects/actionrpg)  
 Play it here (Windows): [Download](https://drive.google.com/file/d/1aUZ3IhFJOaD7NjLIIzOBAaum8KmxyvjM/view?usp=sharing)
